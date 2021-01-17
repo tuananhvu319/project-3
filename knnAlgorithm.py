@@ -32,7 +32,7 @@ def loadDataset(filename, split, trainingSet=[], testSet=[], content_header=[]):
                 testSet.append(dataset[x])
 
 
-
+# calculate distance using euclidean
 def euclideanDistance(instance1, instance2, length):
     distance = 0
     for x in range(1, length):
@@ -209,6 +209,6 @@ def main():
     predictFor(5, 'sbux.csv', 'SBUX', startdate, enddate, 1, split)
     predictFor(5, 'twlo.csv', 'TWLO', startdate, enddate, 1, split)
     predictFor(5, 'twtr.csv', 'TWTR', startdate, enddate, 1, split)
-    predictFor(5, 'yahoo.csv', 'YHOO', startdate, enddate, 1, split)
+    #predictFor(5, 'yahoo.csv', 'YHOO', startdate, enddate, 1, split)
 
 main()
