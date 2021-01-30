@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94f51a6d-e2e4-46d3-abbc-d8cbedb094d0" name="Default Changelist" comment="k">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/Stock Prediction.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Stock Prediction.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazon.csv" beforeDir="false" afterPath="$PROJECT_DIR$/amazon.csv" afterDir="false" />
-    </list>
+    <list default="true" id="94f51a6d-e2e4-46d3-abbc-d8cbedb094d0" name="Default Changelist" comment="k" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
